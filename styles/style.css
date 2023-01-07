@@ -110,6 +110,30 @@
   color: #737272;
 }
 
+/* Good Habits style */
+.good-habits {
+  margin: 0 auto;
+  max-width: 1000px;
+  text-align: center;
+  margin-bottom: 130px;
+}
+.habit-container {
+  display: flex;
+  justify-content: space-around;
+}
+.good-habits h1 {
+  font-weight: 700;
+  font-size: 36px;
+  margin-bottom: 56px;
+}
+.good-habits img {
+  margin-bottom: 20px;
+}
+.good-habits h3 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
 /* Footer styles */
 footer {
   color: #ffffff;
